@@ -15,11 +15,13 @@ Add
 
   git add <filename>
   Takes a file and adds it as a change to be made. It hasn't been changed in the repository yet
+  git add -A will add all files to be submitted
 
 Commit
 
   git commit
   locks in the files to be added to the repository. You can add a message using '-m "insert message here"'.
+  If you forget to add a message when making a commit, use Esc + : + wq + enter to exit the screen.
 
 Push
 
