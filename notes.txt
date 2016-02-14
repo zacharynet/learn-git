@@ -1,0 +1,27 @@
+GIT
+
+cd - change directory
+  .. up a directory
+ls - listing all files in directory
+
+Git Commands
+
+Clone
+
+  git clone <link>
+  takes repository from clone link and makes it in a folder with the project name
+
+Add
+
+  git add <filename>
+  Takes a file and adds it as a change to be made. It hasn't been changed in the repository yet
+
+Commit
+
+  git commit
+  locks in the files to be added to the repository. You can add a message using '-m "insert message here"'.
+
+Push
+
+  git push
+  Anything that has been added gets pushed to the repository
