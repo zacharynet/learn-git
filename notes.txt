@@ -32,3 +32,10 @@ Pull
 
   git pull
   Will download any files that are not on your local copy
+
+Branch
+
+  git branch
+  Lists the branches in the repository
+  git branch <insert name here> will create a branch. It's a complete copy from the branch currently selected
+  git checkout <insert name here> will select the branch to commit and contribute to
