@@ -21,7 +21,7 @@ Commit
 
   git commit
   locks in the files to be added to the repository. You can add a message using '-m "insert message here"'.
-  If you forget to add a message when making a commit, use Esc + : + wq + enter to exit the screen.
+  If you forget to add a message when making a commit, use Esc + : + wq + enter to exit the screen. It is used as a multi-line message.
 
 Push
 
