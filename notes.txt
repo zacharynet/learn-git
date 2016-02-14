@@ -25,3 +25,8 @@ Push
 
   git push
   Anything that has been added gets pushed to the repository
+
+Pull
+
+  git pull
+  Will download any files that are not on your local copy
